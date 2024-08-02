@@ -1,6 +1,15 @@
-## redux-st1: Redux를 활용한 계산기 만들기
+# 0. 목차
+
+1. [Redux를 활용한 계산기 만들기](#1)
+2. [Redux를 활용한 TodoList 만들기](#2)
+
+<br>
+
+# 1. <span id="1">Redux를 활용한 계산기 만들기<span>
 
 > 기초 소스코드: [wonee09/nbcamp-st-ta-01](https://github.com/wonee09/nbcamp-st-ta-01)
+>
+> - 폴더: redux-st`
 
 ## ➕ 숫자 더하기
 
@@ -23,11 +32,12 @@
 - 액션 생성자와 리듀서를 사용하여 더하기 및 빼기 기능을 구현한다.
 - 상태는 `number` 프로퍼티를 가지며, 현재 결과값을 나타낸다.
 
-<br>
+<br><br>
 
-# redux-st2: Redux를 활용한 TodoList 만들기
+# 2. <span id="2">Redux를 활용한 TodoList 만들기</span>
 
-> 기초 소스코드: [wonee09/nbcamp-st-ta-02)](https://github.com/wonee09/nbcamp-st-ta-02)
+> - 기초 소스코드: [wonee09/nbcamp-st-ta-02)](https://github.com/wonee09/nbcamp-st-ta-02)
+> - 폴더: redux-st2
 
 ## 🆕 투두 추가
 
@@ -62,6 +72,8 @@
 
 - 제목과 내용이 비어 있으면 경고 메시지가 표시된다.
 
-## ✏️🖊️ 편집 모드 UI
+## ✏️ 편집 모드 UI
 
 - 편집 모드에서 기존 제목과 내용이 입력 필드에 채워지며, 수정 후 "저장" 버튼을 클릭하여 변경사항을 저장한다.
+
+<br>

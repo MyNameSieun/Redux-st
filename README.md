@@ -7,9 +7,8 @@
 
 # 1. <span id="1">Redux를 활용한 계산기 만들기<span>
 
-> 기초 소스코드: [wonee09/nbcamp-st-ta-01](https://github.com/wonee09/nbcamp-st-ta-01)
->
-> - 폴더: redux-st`
+> - 기초 소스코드: [wonee09/nbcamp-st-ta-01](https://github.com/wonee09/nbcamp-st-ta-01)
+> - 폴더: redux-st
 
 ## ➕ 숫자 더하기
 
